@@ -1,2 +1,2 @@
 # Chat-Snake
-Simple char made with python
+Simple chat made with python
